@@ -87,9 +87,11 @@ a:hover {
   height: 200px;
   width: 150px;
 }
+
 .middle-container {
   padding: 50px 0;
 }
+
 .skill-row {
   margin: 100px auto;
   width: 50%;
@@ -141,8 +143,6 @@ a:hover {
   color: #11999e;
   
 }
-
-
 
 .copyright {
     color: #eaf6f6;
