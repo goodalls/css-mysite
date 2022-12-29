@@ -1,3 +1,4 @@
 let d = new Date();
-alert("Today's date is " + d);
 console.log("todays date is" + d);
+
+document.getElementById("here").innerHTML = "<h4>Todays Date: " + d, "</h4>";
