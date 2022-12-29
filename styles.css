@@ -42,17 +42,15 @@ hr {
   border-color: #eaf6f6;
 }
 a {
-    font-family: "montserrat", serif;
-    text-decoration: none;
+  font-family: "montserrat", serif;
+  text-decoration: none;
 }
 
 a:hover {
-    color: #eaf6f6;
+  color: #eaf6f6;
 }
 
 /**************************************ID CSS***********************************************/
-
-
 
 /**************************************CLASS CSS***********************************************/
 
@@ -78,9 +76,9 @@ a:hover {
 }
 
 .menu {
-    text-decoration: none;
-    padding: 20px 20px;
-  }
+  text-decoration: none;
+  padding: 20px 20px;
+}
 
 .jeff {
   border-radius: 100%;
@@ -96,7 +94,6 @@ a:hover {
   margin: 100px auto;
   width: 50%;
   text-align: left;
-  
 }
 
 .image {
@@ -141,11 +138,10 @@ a:hover {
 
 .footer-link {
   color: #11999e;
-  
 }
 
 .copyright {
-    color: #eaf6f6;
-    font-size: .75rem;
-    padding: 20px 0;
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
 }
